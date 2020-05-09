@@ -34,19 +34,20 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="cn.itcast.day10.demo07" />
       <recent name="cn.itcast.day10.demo03" />
       <recent name="cn.itcast.day10.demo02" />
       <recent name="cn.itcast.day10.demo01" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Demo01Interface (1)">
-    <configuration name="Demo01Interface (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.itcast.day10.demo02.Demo01Interface" />
+  <component name="RunManager" selected="Application.DemoMain">
+    <configuration name="Demo01Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.itcast.day10.demo06.Demo01Main" />
       <module name="day10-code" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.itcast.day10.demo02.*" />
+          <option name="PATTERN" value="cn.itcast.day10.demo06.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -54,13 +55,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo01Interface" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.itcast.day10.demo01.Demo01Interface" />
+    <configuration name="Demo01Multi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.itcast.day10.demo04.Demo01Multi" />
       <module name="day10-code" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.itcast.day10.demo01.*" />
+          <option name="PATTERN" value="cn.itcast.day10.demo04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -68,13 +69,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo02Interface" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.itcast.day10.demo01.Demo02Interface" />
+    <configuration name="Demo01MultiField" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.itcast.day10.demo05.Demo01MultiField" />
       <module name="day10-code" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.itcast.day10.demo01.*" />
+          <option name="PATTERN" value="cn.itcast.day10.demo05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,13 +83,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo03Interface" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.itcast.day10.demo01.Demo03Interface" />
+    <configuration name="Demo02Instanceof" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.itcast.day10.demo06.Demo02Instanceof" />
       <module name="day10-code" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.itcast.day10.demo01.*" />
+          <option name="PATTERN" value="cn.itcast.day10.demo06.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,13 +97,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo04Interface" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.itcast.day10.demo01.Demo04Interface" />
+    <configuration name="DemoMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.itcast.day10.demo07.DemoMain" />
       <module name="day10-code" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.itcast.day10.demo01.*" />
+          <option name="PATTERN" value="cn.itcast.day10.demo07.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,11 +135,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Demo01Interface (1)" />
-        <item itemvalue="Application.Demo04Interface" />
-        <item itemvalue="Application.Demo03Interface" />
-        <item itemvalue="Application.Demo02Interface" />
-        <item itemvalue="Application.Demo01Interface" />
+        <item itemvalue="Application.DemoMain" />
+        <item itemvalue="Application.Demo02Instanceof" />
+        <item itemvalue="Application.Demo01Main" />
+        <item itemvalue="Application.Demo01MultiField" />
+        <item itemvalue="Application.Demo01Multi" />
       </list>
     </recent_temporary>
   </component>
@@ -153,6 +154,9 @@
       <option name="presentableId" value="Default" />
       <updated>1588896832244</updated>
       <workItem from="1588896836611" duration="10619000" />
+      <workItem from="1588983088075" duration="2203000" />
+      <workItem from="1588994870746" duration="1559000" />
+      <workItem from="1589030131733" duration="2699000" />
     </task>
     <servers />
   </component>
@@ -160,26 +164,26 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="798" y="49" key="#com.intellij.ide.util.MemberChooser" timestamp="1588908735721">
+    <state x="798" y="49" key="#com.intellij.ide.util.MemberChooser" timestamp="1589030839484">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="798" y="49" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1588908735721" />
-    <state width="830" height="155" key="GridCell.Tab.0.bottom" timestamp="1588908809004">
+    <state x="798" y="49" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1589030839484" />
+    <state width="796" height="148" key="GridCell.Tab.0.bottom" timestamp="1589032835086">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="830" height="155" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1588908809004" />
-    <state width="830" height="155" key="GridCell.Tab.0.center" timestamp="1588908809004">
+    <state width="796" height="148" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1589032835086" />
+    <state width="796" height="148" key="GridCell.Tab.0.center" timestamp="1589032835085">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="830" height="155" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1588908809004" />
-    <state width="830" height="155" key="GridCell.Tab.0.left" timestamp="1588908809004">
+    <state width="796" height="148" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1589032835085" />
+    <state width="796" height="148" key="GridCell.Tab.0.left" timestamp="1589032835085">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="830" height="155" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1588908809004" />
-    <state width="830" height="155" key="GridCell.Tab.0.right" timestamp="1588908809004">
+    <state width="796" height="148" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1589032835085" />
+    <state width="796" height="148" key="GridCell.Tab.0.right" timestamp="1589032835086">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="830" height="155" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1588908809004" />
+    <state width="796" height="148" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1589032835086" />
     <state x="573" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1588908373480">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
