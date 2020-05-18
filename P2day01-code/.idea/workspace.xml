@@ -31,14 +31,14 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
-  <component name="RunManager" selected="Application.Demo02Test">
-    <configuration name="Demo01Date" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.jane.P2day01.demo02_Date.Demo01Date" />
+  <component name="RunManager" selected="Application.Demo03Integer">
+    <configuration name="Demo01Integer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.jane.P2day01.demo06_Integer.Demo01Integer" />
       <module name="P2day01-code" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.jane.P2day01.demo02_Date.*" />
+          <option name="PATTERN" value="cn.jane.P2day01.demo06_Integer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -46,13 +46,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo01DateFormat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.jane.P2day01.demo02_Date.Demo01DateFormat" />
+    <configuration name="Demo01StringBuilder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.jane.P2day01.demo05_StringBuilder.Demo01StringBuilder" />
       <module name="P2day01-code" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.jane.P2day01.demo02_Date.*" />
+          <option name="PATTERN" value="cn.jane.P2day01.demo05_StringBuilder.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -60,13 +60,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo02Date" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.jane.P2day01.demo02_Date.Demo02Date" />
+    <configuration name="Demo02StringBuilder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.jane.P2day01.demo05_StringBuilder.Demo02StringBuilder" />
       <module name="P2day01-code" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.jane.P2day01.demo02_Date.*" />
+          <option name="PATTERN" value="cn.jane.P2day01.demo05_StringBuilder.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -74,13 +74,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo02Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.jane.P2day01.demo02_Date.Demo02Test" />
+    <configuration name="Demo03Integer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.jane.P2day01.demo06_Integer.Demo03Integer" />
       <module name="P2day01-code" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.jane.P2day01.demo02_Date.*" />
+          <option name="PATTERN" value="cn.jane.P2day01.demo06_Integer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,13 +88,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo03Objects" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.jane.P2day01.demo01_Object.Demo03Objects" />
+    <configuration name="Demo03StringBuilder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.jane.P2day01.demo05_StringBuilder.Demo03StringBuilder" />
       <module name="P2day01-code" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.jane.P2day01.demo02_Date.*" />
+          <option name="PATTERN" value="cn.jane.P2day01.demo05_StringBuilder.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,11 +126,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Demo02Test" />
-        <item itemvalue="Application.Demo01DateFormat" />
-        <item itemvalue="Application.Demo02Date" />
-        <item itemvalue="Application.Demo01Date" />
-        <item itemvalue="Application.Demo03Objects" />
+        <item itemvalue="Application.Demo03Integer" />
+        <item itemvalue="Application.Demo01Integer" />
+        <item itemvalue="Application.Demo03StringBuilder" />
+        <item itemvalue="Application.Demo02StringBuilder" />
+        <item itemvalue="Application.Demo01StringBuilder" />
       </list>
     </recent_temporary>
   </component>
@@ -146,6 +146,7 @@
       <updated>1589587020586</updated>
       <workItem from="1589587025101" duration="2653000" />
       <workItem from="1589678420593" duration="4712000" />
+      <workItem from="1589809872438" duration="5918000" />
     </task>
     <servers />
   </component>
@@ -161,26 +162,30 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="587" y="0" key="#com.intellij.unscramble.UnscrambleDialog/0.0.1280.680@0.0.1280.680" timestamp="1589587745131" />
-    <state width="1237" height="155" key="GridCell.Tab.0.bottom" timestamp="1589685710387">
+    <state width="595" height="152" key="GridCell.Tab.0.bottom" timestamp="1589816184635">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="155" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1589685710387" />
-    <state width="1237" height="155" key="GridCell.Tab.0.center" timestamp="1589685710387">
+    <state width="595" height="152" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1589816184635" />
+    <state width="595" height="152" key="GridCell.Tab.0.center" timestamp="1589816184634">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="155" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1589685710387" />
-    <state width="1237" height="155" key="GridCell.Tab.0.left" timestamp="1589685710387">
+    <state width="595" height="152" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1589816184634" />
+    <state width="595" height="152" key="GridCell.Tab.0.left" timestamp="1589816184634">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="155" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1589685710387" />
-    <state width="1237" height="155" key="GridCell.Tab.0.right" timestamp="1589685710387">
+    <state width="595" height="152" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1589816184634" />
+    <state width="595" height="152" key="GridCell.Tab.0.right" timestamp="1589816184634">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="155" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1589685710387" />
+    <state width="595" height="152" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1589816184634" />
     <state x="125" y="0" key="SettingsEditor" timestamp="1589587032985">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="125" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1589587032985" />
+    <state x="617" y="154" key="run.anything.popup" timestamp="1589816144054">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="617" y="154" key="run.anything.popup/0.0.1280.680@0.0.1280.680" timestamp="1589816144054" />
     <state x="569" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1589683212796">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
