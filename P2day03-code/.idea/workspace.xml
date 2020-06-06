@@ -33,14 +33,14 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
-  <component name="RunManager" selected="Application.Demo01VarArgs">
-    <configuration name="Demo01HashCode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.Jane.P2day03.demo03.hashCode.Demo01HashCode" />
+  <component name="RunManager" selected="Application.Demo03Sort">
+    <configuration name="Demo01Collections" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.Jane.P2day03.demo05Collections.Demo01Collections" />
       <module name="P2day03-code" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.Jane.P2day03.demo03.hashCode.*" />
+          <option name="PATTERN" value="cn.Jane.P2day03.demo05Collections.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -62,13 +62,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo02HashSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.Jane.P2day03.demo02.Set.Demo02HashSet" />
+    <configuration name="Demo02Sort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.Jane.P2day03.demo05Collections.Demo02Sort" />
       <module name="P2day03-code" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.Jane.P2day03.demo02.Set.*" />
+          <option name="PATTERN" value="cn.Jane.P2day03.demo05Collections.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -76,13 +76,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo03HashSetSavePerson" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.Jane.P2day03.demo02.Set.Demo03HashSetSavePerson" />
+    <configuration name="Demo03Sort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.Jane.P2day03.demo05Collections.Demo03Sort" />
       <module name="P2day03-code" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.Jane.P2day03.demo02.Set.*" />
+          <option name="PATTERN" value="cn.Jane.P2day03.demo05Collections.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,11 +128,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Demo03Sort" />
+        <item itemvalue="Application.Demo02Sort" />
+        <item itemvalue="Application.Demo01Collections" />
         <item itemvalue="Application.Demo01VarArgs" />
         <item itemvalue="Application.Demo04LinkedHashSet" />
-        <item itemvalue="Application.Demo03HashSetSavePerson" />
-        <item itemvalue="Application.Demo02HashSet" />
-        <item itemvalue="Application.Demo01HashCode" />
       </list>
     </recent_temporary>
   </component>
@@ -152,6 +152,7 @@
       <workItem from="1591054270821" duration="3248000" />
       <workItem from="1591232872276" duration="4023000" />
       <workItem from="1591316871559" duration="2647000" />
+      <workItem from="1591454948807" duration="2949000" />
     </task>
     <servers />
   </component>
@@ -159,30 +160,30 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="752" y="62" key="#com.intellij.ide.util.MemberChooser" timestamp="1591317047764">
+    <state x="752" y="62" key="#com.intellij.ide.util.MemberChooser" timestamp="1591458948433">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="752" y="62" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1591317047764" />
+    <state x="752" y="62" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1591458948433" />
     <state x="380" y="108" key="FileChooserDialogImpl" timestamp="1591317168959">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="380" y="108" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1591317168959" />
-    <state width="806" height="215" key="GridCell.Tab.0.bottom" timestamp="1591319526019">
+    <state width="806" height="342" key="GridCell.Tab.0.bottom" timestamp="1591458844741">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="806" height="215" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1591319526019" />
-    <state width="806" height="215" key="GridCell.Tab.0.center" timestamp="1591319526017">
+    <state width="806" height="342" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1591458844741" />
+    <state width="806" height="342" key="GridCell.Tab.0.center" timestamp="1591458844741">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="806" height="215" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1591319526017" />
-    <state width="806" height="215" key="GridCell.Tab.0.left" timestamp="1591319526016">
+    <state width="806" height="342" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1591458844741" />
+    <state width="806" height="342" key="GridCell.Tab.0.left" timestamp="1591458844741">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="806" height="215" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1591319526016" />
-    <state width="806" height="215" key="GridCell.Tab.0.right" timestamp="1591319526019">
+    <state width="806" height="342" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1591458844741" />
+    <state width="806" height="342" key="GridCell.Tab.0.right" timestamp="1591458844741">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="806" height="215" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1591319526019" />
+    <state width="806" height="342" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1591458844741" />
     <state width="761" height="191" key="GridCell.Tab.1.bottom" timestamp="1591064215426">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
