@@ -18,7 +18,6 @@ public class Demo03Sort {
         Collections.addAll(list01,1,3,2);
         System.out.println(list01);//[1, 3, 2]
 
-
         Collections.sort(list01, new Comparator<Integer>() {
             @Override
             public int compare(Integer o1, Integer o2) {
@@ -30,9 +29,28 @@ public class Demo03Sort {
         System.out.println(list01);//[1, 2, 3]
 
         ArrayList<Student> list02=new ArrayList<>();
-        list02.add("迪丽热巴",20);
-        list02.add("古力娜扎",20);
-        list02.add("杨幂",19);
+        list02.add(new Student("a迪丽热巴",20));
+        list02.add(new Student("古力娜扎",18));
+        list02.add(new Student("杨幂",19));
+        list02.add(new Student("b杨幂",20));
+
+        System.out.println(list02);
+
+        Collections.sort(list02, new Comparator<Student>() {
+            @Override
+            public int compare(Student o1, Student o2) {
+                //按年龄升序排序
+                int result= o1.getAge()-o2.getAge();
+                //扩展:了解
+                //如果两人年龄相同，再使用姓名的第一个字比较
+                if(result==0) {
+                    result = o1.getName().charAt(0) - o2.getName().charAt(0);
+                }
+                return result;
+
+            }
+        });
+        System.out.println(list02);
 
 
 
