@@ -1,4 +1,4 @@
-package cn.Jane.P2day03.demo05Collections;
+package cn.Jane.P2day03.demo05.Collections;
 
 public class Person implements Comparable<Person>{
     private String name;

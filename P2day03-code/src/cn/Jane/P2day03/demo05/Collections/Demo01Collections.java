@@ -1,4 +1,4 @@
-package cn.Jane.P2day03.demo05Collections;
+package cn.Jane.P2day03.demo05.Collections;
 
 import java.util.ArrayList;
 import java.util.Collection;
